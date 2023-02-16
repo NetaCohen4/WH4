@@ -163,7 +163,7 @@ void calculation_p(int *array, int array_len)
     int x = 0;
     for (int i = 0; i < array_len - 1; ++i)
     {
-        int len = shortsPath(myGraph,array[i], array[i + 1]);
+        int len = shortesPath(myGraph,array[i], array[i + 1]);
         if (len == -1)
         {
             x = INT_MAX;
