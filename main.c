@@ -47,7 +47,7 @@ int main()
         {
             int src = -1, dest = -1;
             scanf("%d %d", &src, &dest);
-            int dis = shortsPath(*root, src, dest);
+            int dis = shortesPath(*root, src, dest);
             printf("Dijsktra shortest path: %d \n", dis);
         }
 
