@@ -41,7 +41,7 @@ void insert_node(pnode*);
 void delete_node(pnode*);
 void printGraph(pnode);
 void deleteGraph(pnode*);
-int shortsPath(pnode, int, int);
+int shortesPath(pnode, int, int);
 void TSP(pnode);
 
 
