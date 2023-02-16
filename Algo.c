@@ -7,7 +7,7 @@ Ex4
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "graph.h"
+#include "Graph.h"
 #include <limits.h>
 
 #define MIN(a,b) (((a)<(b))?(a):(b))
