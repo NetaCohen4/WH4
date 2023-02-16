@@ -6,7 +6,7 @@ Ex4
 */
 #include <stdio.h> 
 #include <stdlib.h> 
-#include "graph.h"
+#include "Graph.h"
 #include <string.h>
 #include <ctype.h>
 #include <limits.h>
